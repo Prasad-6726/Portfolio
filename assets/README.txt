@@ -1,6 +1,6 @@
-Place your CV PDF in this folder with the filename `Prasad_CV.pdf`.
+Place your CV PDF in this folder with the filename `Prasad_Kumbhar.pdf`.
 
-The site expects the file at: assets/Prasad_CV.pdf
+The site expects the file at: assets/Prasad_Kumbhar.pdf
 
 If you prefer to host your CV elsewhere (Google Drive, Dropbox, etc.), update the `externalFallback` variable in index.html near the bottom of the file to point to your public CV URL.
 
