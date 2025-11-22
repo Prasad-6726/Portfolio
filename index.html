@@ -786,7 +786,7 @@
             if (!link) return;
 
             const localUrl = link.getAttribute('href');
-            const externalFallback = 'https://drive.google.com/your-public-cv-link'; // <-- replace with your public CV URL
+            const externalFallback = 'https://drive.google.com/file/d/15si1acp_OReVBx79msLySsCYMwh41B_w/view?usp=drive_link'; // <-- replace with your public CV URL
 
             // Try a HEAD request to see if the local file exists
             fetch(localUrl, { method: 'HEAD' })
